@@ -8,23 +8,23 @@ Here are some of the screenshots of the webpage:
 
 LANDING PAGE
 
-![Screenshot1](/snaps/1.png)
+![Screenshot1](/Portfolio/snaps/1.png)
 
 ABOUT ME
 
-![Screenshot2](/snaps/2.png)
+![Screenshot2](/Portfolio/snaps/2.png)
 
 SKILLS
 
-![Screenshot3](/snaps/3.png)
+![Screenshot3](/Portfolio/snaps/3.png)
 
 PROJECTS
 
-![Screenshot4](/snaps/4.png)
+![Screenshot4](/Portfolio/snaps/4.png)
 
 TESTIMONIAL
 
-![Screenshot5](/snaps/5.png)
+![Screenshot5](/Portfolio/snaps/5.png)
 
 **Technology used**
 
